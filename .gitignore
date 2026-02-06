@@ -1,0 +1,17 @@
+# environments
+venv/
+
+# vscode settings
+.vscode/
+
+# python
+__pycache__/
+*.pyc
+
+# models / data
+*.pkl
+*.csv
+System/
+
+# notebooks
+.ipynb_checkpoints
