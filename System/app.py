@@ -59,7 +59,7 @@ def set_bg(image_file="bg.jpeg"):
     )
 
 
-set_bg("System/bg.jpeg")
+set_bg(r'System/bg.jpeg')
 
 
 # =====================================================
