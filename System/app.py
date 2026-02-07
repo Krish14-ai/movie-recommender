@@ -7,7 +7,7 @@ import base64
 # CONFIG
 # =====================================================
 
-API_KEY = "62f7cb32"  # Our OMDb key
+API_KEY = ""  # add your own OMDb API key 
 POSTER_WIDTH = 180
 
 
