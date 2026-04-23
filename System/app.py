@@ -14,7 +14,7 @@ from pathlib import Path
 API_KEY = ""  # add your own OMDb API key 
 POSTER_WIDTH = 180
 =======
-API_KEY = "62f7cb32"
+API_KEY = ""
 POSTER_WIDTH = 220
 
 BASE_DIR = Path(__file__).parent   # <- magic line (fixes ALL path issues)
